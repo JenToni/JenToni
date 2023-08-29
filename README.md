@@ -25,5 +25,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![codewars](https://www.codewars.com/users/JenToni/badges/large)](https://www.codewars.com/users/JenToni) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/JenTonianuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
