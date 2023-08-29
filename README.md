@@ -11,4 +11,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?JenToniryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?JenToni=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
