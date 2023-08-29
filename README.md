@@ -11,7 +11,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/JenToni)   
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/JenTonianuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiJenTonanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?JenToniKnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
