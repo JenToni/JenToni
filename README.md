@@ -22,7 +22,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-[![codewars](https://www.codewars.com/users/JenToni/badges/large)](https://www.codewars.com/users/JenToni) 
+[![codewars](https://www.codewars.com/users/JenToni/badges/large)](https://www.codewars.com/users/JenToni)
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/JenToni?theme=nord&font=Trykker&ext=activity)
 
 
 
